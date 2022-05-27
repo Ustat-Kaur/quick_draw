@@ -6,7 +6,7 @@ body{
     margin-left:40px;
     font-family:monospace
 }
-#time{
+#timer{
     font-size:28px;
     float:right;
     margin-right:40px;
@@ -15,4 +15,7 @@ body{
 #draw_sketch{
     color:dimgray;
     font-family:monospace;
+}
+#score{
+    float: left;
 }
